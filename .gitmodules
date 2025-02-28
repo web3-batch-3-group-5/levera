@@ -1,0 +1,9 @@
+[submodule "levera-contracts"]
+	path = levera-contracts
+	url = https://github.com/web3-batch-3-group-5/levera-contracts.git
+[submodule "levera-subgraph"]
+	path = levera-subgraph
+	url = https://github.com/web3-batch-3-group-5/levera-subgraph.git
+[submodule "levera-frontend"]
+	path = levera-frontend
+	url = https://github.com/web3-batch-3-group-5/levera-frontend.git
