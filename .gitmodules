@@ -7,3 +7,12 @@
 [submodule "levera-frontend"]
 	path = levera-frontend
 	url = https://github.com/web3-batch-3-group-5/levera-frontend.git
+[submodule "levera-open-intent"]
+	path = levera-open-intent
+	url = https://github.com/web3-batch-3-group-5/levera-open-intents.git
+[submodule "levera-open-intents"]
+	path = levera-open-intents
+	url = https://github.com/web3-batch-3-group-5/levera-open-intents.git
+[submodule "levera-indexer"]
+	path = levera-indexer
+	url = https://github.com/web3-batch-3-group-5/levera-indexer.git

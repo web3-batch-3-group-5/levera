@@ -10,5 +10,9 @@ Levera consists of multiple repositories, each handling a distinct part of the e
 - [Levera Frontend](https://github.com/web3-batch-3-group-5/levera-frontend/tree/97103a0c6496900bf32b07bc9caa31419e9812e0) - User interface and web application.  
 - [Levera Subgraph](https://github.com/web3-batch-3-group-5/levera-subgraph/tree/2284b4e5160343d558285c16176111cbd59ef35f) - Data indexing and querying.  
 - [Levera Contracts](https://github.com/web3-batch-3-group-5/levera-contracts/tree/f937b973d3b0bc745cdae0addd31c5dc09a8b456) - Core smart contracts and protocol logic.
+- [Levera Rollup Integration](https://github.com/web3-batch-3-group-5/levera-open-intents) — Integration with Espresso's Open Intent architecture for cross-chain rollup deployment.
+- [Levera Indexer](https://github.com/web3-batch-3-group-5/levera-indexer) — Levera Indexer.
+
+
 ## Licenses
 Levera is not yet licensed. The licensing details will be updated once finalized.Levera's codebase follows the licensing terms specified in `LICENSE`. Ensure compliance with the relevant license conditions when contributing or integrating with the protocol.. However, files within the following directories may also be licensed under GPL-2.0-or-later
